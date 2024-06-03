@@ -2,7 +2,7 @@
 
 This repository contains my solutions to various coding challenges from [Frontend Mentor](https://www.frontendmentor.io/). Each project is organized into its own directory.
 
-## Recipe Page
+## 1). Recipe Page
 
 The challenge was to build a recipe page and get it as close to the design as possible. <br> 
 This was completed by using HTML5 and CSS3 only.
