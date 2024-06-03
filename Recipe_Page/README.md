@@ -2,6 +2,8 @@
 
 This is a simple web page that displays a recipe for making a classic omelette. The page is built using HTML, CSS, and includes Google Fonts for the typography.
 
+![Design preview for the Recipe page coding challenge](./design/desktop-preview.jpg)
+
 ## Features
 
 - Responsive design for both desktop and mobile devices
