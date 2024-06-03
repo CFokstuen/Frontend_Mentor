@@ -4,17 +4,12 @@ This repository contains my solutions to various coding challenges from [Fronten
 
 ## Recipe Page
 
-![Recipe Page Preview](https://github.com/CFokstuen/Frontend_Mentor/blob/main/Recipe_Page/desktop-preview.jpg?raw=true =250x)
+![Recipe Page Preview](Recipe_Page/desktop-preview-small.jpg)
 
-The challenge was to build a recipe page, and get it as close to the design as possible.
+The challenge was to build a recipe page and get it as close to the design as possible. This was completed by using HTML5 and CSS3 only.
 
 [View Project](Recipe_Page)
 
-## Other Projects
-
-- [Project 2 Name](path/to/project2)
-- [Project 3 Name](path/to/project3)
-- ...
 
 ## Credits
 
