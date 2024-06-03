@@ -2,7 +2,7 @@
 
 This is a simple web page that displays a recipe for making a classic omelette. The page is built using HTML, CSS, and includes Google Fonts for the typography.
 
-![Design preview for the Recipe page coding challenge](https://github.com/CFokstuen/Frontend_Mentor/blob/main/Recipe_Page/desktop-design.jpg)
+![Design preview for the Recipe page coding challenge](https://github.com/CFokstuen/Frontend_Mentor/blob/main/Recipe_Page/desktop-preview.jpg)
 
 ## Features
 
@@ -22,12 +22,17 @@ This is a simple web page that displays a recipe for making a classic omelette. 
 To view the recipe page locally, simply open the `index.html` file in a web browser.
 
 ## File Structure
-
-├── index.html
-├── styles.css
+<pre>
+Recipe_Page/
+├── README.md
+├── desktop-design.jpg
+├── desktop-preview.jpg
+├── favicon-32x32.png
 ├── image-omelette.jpeg
-└── favicon-32x32.png
-
+├── index.html
+├── mobile-design.jpg
+└── styles.css
+</pre>
 - `index.html`: The main HTML file that structures the content of the recipe page.
 - `styles.css`: The CSS file that styles the recipe page.
 - `image-omelette.jpeg`: The image of the omelette used on the page.
