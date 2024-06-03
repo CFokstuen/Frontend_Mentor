@@ -33,10 +33,15 @@ Recipe_Page/
 ├── mobile-design.jpg
 └── styles.css
 </pre>
-- `index.html`: The main HTML file that structures the content of the recipe page.
-- `styles.css`: The CSS file that styles the recipe page.
-- `image-omelette.jpeg`: The image of the omelette used on the page.
+
+- `README.md`: This file, containing information about the project.
+- `desktop-design.jpg`: The design preview for the desktop version.
+- `desktop-preview.jpg`: The design preview for the desktop version.
 - `favicon-32x32.png`: The favicon for the web page.
+- `image-omelette.jpeg`: The image of the omelette used on the page.
+- `index.html`: The main HTML file that structures the content of the recipe page.
+- `mobile-design.jpg`: The design preview for the mobile version.
+- `styles.css`: The CSS file that styles the recipe page.
 
 ## Credits
 
