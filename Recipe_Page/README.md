@@ -22,11 +22,12 @@ To view the recipe page locally, simply open the `index.html` file in a web brow
 ## File Structure
 
 simple-omelette-recipe/
+`
 ├── index.html
 ├── styles.css
 ├── image-omelette.jpeg
 └── favicon-32x32.png
-
+`
 - `index.html`: The main HTML file that structures the content of the recipe page.
 - `styles.css`: The CSS file that styles the recipe page.
 - `image-omelette.jpeg`: The image of the omelette used on the page.
