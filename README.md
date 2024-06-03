@@ -4,9 +4,9 @@ This repository contains my solutions to various coding challenges from [Fronten
 
 ## Recipe Page
 
-![Recipe Page Preview](Recipe_Page/desktop-preview-small.jpg)
-
 The challenge was to build a recipe page and get it as close to the design as possible. This was completed by using HTML5 and CSS3 only.
+
+<img src="Recipe_Page/desktop-preview.jpg" alt="Recipe Page Preview" width="250">
 
 [View Project](Recipe_Page)
 
