@@ -14,7 +14,7 @@ The challenge was to build a recipe page and get it as close to the design as po
 ## Credits
 
 - Design and assets provided by [Frontend Mentor](https://www.frontendmentor.io/)
-- Coded by [Your Name](https://github.com/your-username)
+- Coded by [Carl Fokstuen](https://github.com/your-username)
 
 ## License
 
