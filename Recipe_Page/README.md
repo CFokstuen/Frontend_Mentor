@@ -1,6 +1,6 @@
 # Simple Omelette Recipe
 
-This is a simple web page that displays a recipe for making a classic omelette. The page is built using HTML, CSS, and includes Google Fonts for the typography.
+This is a the first project in the Frontend Mentor's lineup of challenges. The page is built using HTML, CSS, and includes Google Fonts for the typography.
 
 ![Design preview for the Recipe page coding challenge](https://github.com/CFokstuen/Frontend_Mentor/blob/main/Recipe_Page/desktop-preview.jpg)
 
@@ -9,7 +9,7 @@ This is a simple web page that displays a recipe for making a classic omelette. 
 - Responsive design for both desktop and mobile devices
 - Clear and easy-to-follow recipe instructions
 - Nutritional information for the basic omelette
-- Elegant typography using Google Fonts
+- Typography using Google Fonts
 
 ## Technologies Used
 
@@ -22,6 +22,7 @@ This is a simple web page that displays a recipe for making a classic omelette. 
 To view the recipe page locally, simply open the `index.html` file in a web browser.
 
 ## File Structure
+
 <pre>
 Recipe_Page/
 ├── README.md
@@ -46,7 +47,7 @@ Recipe_Page/
 ## Credits
 
 - Design and assets provided by [Frontend Mentor](https://www.frontendmentor.io/)
-- Coded by [Your Name](https://github.com/your-username)
+- Coded by [Carl Fokstuen]([https://github.com/your-username](https://github.com/CFokstuen))
 
 ## License
 
