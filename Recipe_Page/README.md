@@ -2,7 +2,7 @@
 
 This is a the first project in the Frontend Mentor's lineup of challenges. The page is built using HTML, CSS, and includes Google Fonts for the typography.
 
-![Design preview for the Recipe page coding challenge](https://github.com/CFokstuen/Frontend_Mentor/blob/main/Recipe_Page/desktop-preview.jpg)
+![Design preview for the Recipe page coding challenge](https://github.com/CFokstuen/Frontend_Mentor/blob/main/Recipe_Page/assests/desktop-preview.jpg)
 
 ## Features
 
